@@ -1,2 +1,3 @@
 all:
-	echo "hello, world." > index.html
+	mkdir -p build
+	echo "hello, world." > build/index.html
